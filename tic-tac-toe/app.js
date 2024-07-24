@@ -1,3 +1,4 @@
+// Java Script File
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
 let newGame = document.querySelector("#new-btn");
